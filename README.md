@@ -1,8 +1,8 @@
 # Unity2d_UI
 Pirmais Unity 2D projekts 
 ### Veicamo darbu saraksts
-- [ ] Nodrošināt projekta versionēšanu
-- [ ] Ivdeivot testa logu, taksta ievades lauku un pogu 
+- [x] Nodrošināt projekta versionēšanu
+- [x] Ivdeivot testa logu, taksta ievades lauku un pogu 
 - [ ] Ievietot attēlus
 - [ ] Ievietot ček bokšus
 - [ ] Nodrošināt radio pogas darbību 
