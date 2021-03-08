@@ -10,4 +10,4 @@ Pirmais Unity 2D projekts
 - [ ] Nodrosināt attēla izmēra maiņu ar bīdjoslu
 - [ ] Nodrosināt attēla pārvietošanu peles palīdzību
 - [ ] Pievienot audio failus
-- [ ] 
+
